@@ -1,0 +1,13 @@
+.share-pop-up {
+  border: 1px solid #ccc;
+  background-color: #fff;
+  padding: 2rem;
+}
+
+.share-close-btn {
+  background-color: #ef5350;
+  color: #fff;
+  font-size: 1.6rem;
+  padding: 0.5em;
+  font-weight: lighter;
+}
